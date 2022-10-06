@@ -6,6 +6,8 @@ public class Main {
     }
 
     public static int test(int x){
-        return x*=x;
+        int y=5;
+        return x*=y;
+
     }
 }

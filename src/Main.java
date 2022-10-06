@@ -4,4 +4,8 @@ public class Main {
         int a;
         int c;
     }
+
+    public static int test(int x){
+        return x*=x;
+    }
 }
